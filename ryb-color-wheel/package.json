@@ -1,0 +1,14 @@
+{
+  "name": "@gunggmee/ryb-color-wheel",
+  "main": "b9d06a7c7fe29003@1360.js",
+  "version": "1360.0.0",
+  "homepage": "https://observablehq.com/@gunggmee/ryb-color-wheel",
+  "author": {
+    "name": "gunggmee",
+    "url": "https://observablehq.com/@gunggmee"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
